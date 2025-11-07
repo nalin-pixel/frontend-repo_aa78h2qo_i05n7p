@@ -3,8 +3,7 @@
 > vite
 
 
-  VITE v5.4.20  ready in 203 ms
+  VITE v5.4.20  ready in 248 ms
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.20.27.203:3000/
-8:07:13 AM [vite] Pre-transform error: Failed to resolve import "axios" from "src/components/Dashboard.jsx". Does the file exist?
